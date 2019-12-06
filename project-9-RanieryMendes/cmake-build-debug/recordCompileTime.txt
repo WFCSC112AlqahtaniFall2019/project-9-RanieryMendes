@@ -1,0 +1,490 @@
+Testing with: 1000
+BubbleSort time int: 0.012765
+BubbleSort time data: 0.125386
+MergeSort time int: 0.033395
+MergeSort time data: 0.293444
+SelectionSort time int: 0.003498
+SelectionSort time data: 0.035412
+QuickSort time int: 0.277963
+QuickSort time Data: 0.038558
+
+Testing with: 2000
+BubbleSort time int: 0.044549
+BubbleSort time data: 0.517656
+MergeSort time int: 0.160528
+MergeSort time data: 0.920657
+SelectionSort time int: 0.009142
+SelectionSort time data: 0.09029
+QuickSort time int: 0.865393
+QuickSort time Data: 0.124675
+
+Testing with: 3000
+BubbleSort time int: 0.093771
+BubbleSort time data: 1.3619
+MergeSort time int: 0.308446
+MergeSort time data: 1.98195
+SelectionSort time int: 0.020504
+SelectionSort time data: 0.196803
+QuickSort time int: 2.18491
+QuickSort time Data: 0.285321
+
+Testing with: 4000
+BubbleSort time int: 0.153515
+BubbleSort time data: 1.96328
+MergeSort time int: 0.498381
+MergeSort time data: 3.3867
+SelectionSort time int: 0.036733
+SelectionSort time data: 0.344406
+QuickSort time int: 3.38512
+QuickSort time Data: 0.493519
+
+Testing with: 5000
+BubbleSort time int: 0.242167
+BubbleSort time data: 3.27031
+MergeSort time int: 0.80978
+MergeSort time data: 5.73046
+SelectionSort time int: 0.062197
+SelectionSort time data: 0.675838
+QuickSort time int: 5.38563
+QuickSort time Data: 0.77042
+
+Testing with: 6000
+BubbleSort time int: 0.353073
+BubbleSort time data: 3.88119
+MergeSort time int: 1.11721
+MergeSort time data: 7.54846
+SelectionSort time int: 0.07897
+SelectionSort time data: 0.776896
+QuickSort time int: 7.59119
+QuickSort time Data: 1.1
+
+Testing with: 7000
+BubbleSort time int: 0.497944
+BubbleSort time data: 5.53276
+MergeSort time int: 1.50666
+MergeSort time data: 10.2993
+SelectionSort time int: 0.107622
+SelectionSort time data: 1.06106
+QuickSort time int: 10.3908
+QuickSort time Data: 1.49452
+
+Testing with: 8000
+BubbleSort time int: 0.631472
+BubbleSort time data: 7.26796
+MergeSort time int: 2.01047
+MergeSort time data: 14.0303
+SelectionSort time int: 0.141858
+SelectionSort time data: 1.39141
+QuickSort time int: 13.586
+QuickSort time Data: 1.95832
+
+Testing with: 9000
+BubbleSort time int: 0.761376
+BubbleSort time data: 9.40008
+MergeSort time int: 2.61766
+MergeSort time data: 17.239
+SelectionSort time int: 0.176937
+SelectionSort time data: 1.75468
+QuickSort time int: 17.1452
+QuickSort time Data: 2.53593
+
+Testing with: 10000
+BubbleSort time int: 0.867924
+BubbleSort time data: 11.1437
+MergeSort time int: 3.13952
+MergeSort time data: 21.2247
+SelectionSort time int: 0.219645
+SelectionSort time data: 2.23683
+QuickSort time int: 21.4427
+QuickSort time Data: 3.11734
+
+Testing with: 15000
+BubbleSort time int: 2.00653
+BubbleSort time data: 26.7162
+MergeSort time int: 7.03946
+MergeSort time data: 48.2402
+SelectionSort time int: 0.505904
+SelectionSort time data: 5.5254
+QuickSort time int: 51.3754
+QuickSort time Data: 6.98658
+
+Testing with: 20000
+BubbleSort time int: 3.45042
+BubbleSort time data: 50.067
+MergeSort time int: 12.4437
+MergeSort time data: 86.8273
+SelectionSort time int: 0.876229
+SelectionSort time data: 8.97997
+QuickSort time int: 96.139
+QuickSort time Data: 13.3359
+
+Testing with: 25000
+BubbleSort time int: 5.35333
+BubbleSort time data: 81.3414
+MergeSort time int: 21.2872
+MergeSort time data: 140.802
+SelectionSort time int: 1.37701
+SelectionSort time data: 14.9781
+QuickSort time int: 157.788
+QuickSort time Data: 19.6624
+
+Testing with: 30000
+BubbleSort time int: 7.59093
+BubbleSort time data: 111.272
+MergeSort time int: 27.8959
+MergeSort time data: 202.29
+SelectionSort time int: 2.02139
+SelectionSort time data: 21.3132
+QuickSort time int: 240.841
+QuickSort time Data: 28.3902
+
+Testing with: 35000
+BubbleSort time int: 10.2687
+BubbleSort time data: 150.153
+MergeSort time int: 38.7384
+MergeSort time data: 284.807
+SelectionSort time int: 2.68123
+SelectionSort time data: 27.9864
+QuickSort time int: 314.051
+QuickSort time Data: 37.9125
+
+Testing with: 40000
+BubbleSort time int: 13.8862
+BubbleSort time data: 196.709
+MergeSort time int: 50.7386
+MergeSort time data: 388.663
+SelectionSort time int: 3.53574
+SelectionSort time data: 38.3801
+QuickSort time int: 427.14
+QuickSort time Data: 51.2918
+
+Testing with: 45000
+BubbleSort time int: 17.477
+BubbleSort time data: 238.888
+MergeSort time int: 62.8544
+MergeSort time data: 470.061
+SelectionSort time int: 4.66519
+SelectionSort time data: 57.4029
+QuickSort time int: 506.997
+QuickSort time Data: 62.8735
+
+Testing with: 50000
+BubbleSort time int: 20.9574
+BubbleSort time data: 300.662
+MergeSort time int: 77.6095
+MergeSort time data: 598.171
+SelectionSort time int: 5.5371
+SelectionSort time data: 61.5494
+QuickSort time int: 653.899
+QuickSort time Data: 77.4961
+
+Testing with: 55000
+BubbleSort time int: 26.367
+BubbleSort time data: 385.831
+MergeSort time int: 97.3377
+MergeSort time data: 765.543
+SelectionSort time int: 6.8331
+SelectionSort time data: 80.7512
+QuickSort time int: 834.913
+QuickSort time Data: 99.6962
+
+Testing with: 60000
+BubbleSort time int: 31.6541
+BubbleSort time data: 450.945
+MergeSort time int: 112.108
+MergeSort time data: 866.334
+SelectionSort time int: 7.97272
+SelectionSort time data: 95.0466
+Testing with: 60000
+QuickSort time int: 1000.65
+QuickSort time Data: 109.841
+
+Testing with: 70000
+BubbleSort time int: 41.0609
+BubbleSort time data: 630.097
+MergeSort time int: 154.852
+MergeSort time data: 1284.5
+SelectionSort time int: 11.124
+SelectionSort time data: 147.579
+QuickSort time int: 1364.61
+QuickSort time Data: 158.221
+
+Testing with: 80000
+BubbleSort time int: 52.9769
+BubbleSort time data: 828.979
+MergeSort time int: 199.896
+MergeSort time data: 1605.91
+SelectionSort time int: 14.2644
+SelectionSort time data: 171.135
+QuickSort time int: 1658.93
+QuickSort time Data: 199.772
+
+Testing with: 90000
+BubbleSort time int: 67.5055
+BubbleSort time data: 1052.61
+MergeSort time int: 251.94
+MergeSort time data: 2516.86
+SelectionSort time int: 17.863
+SelectionSort time data: 219.874
+QuickSort time int: 2115.73
+QuickSort time Data: 250.107
+
+Testing with: 100000
+BubbleSort time int: 89.3104
+BubbleSort time data: 1371.28
+MergeSort time int: 314.751
+Testing with: 100000
+MergeSort time data: 2545.15
+SelectionSort time int: 22.9965
+SelectionSort time data: 243.828
+
+new uploadTesting with: 5000
+BubbleSort time int: 0.217302
+Resorting sorted vector with int using bubblesort: 4.3e-05
+BubbleSort time data: 2.8745
+Resorting sorted vector with data using bubblesort: 0.000295
+MergeSort time int: 0.757496
+Resorting sorted vector with integers using mergesort: 0.777431
+Testing with: 5000
+BubbleSort time int: 0.213859
+Resorting sorted vector with int using bubblesort: 4.3e-05
+BubbleSort time data: 2.77357
+Resorting sorted vector with data using bubblesort: 0.000295
+MergeSort time int: 0.763491
+Resorting sorted vector with integers using mergesort: 0.769043
+MergeSort time data: 5.36028
+Resorting sorted vector with data using mergesort: 5.38665
+SelectionSort time int: 0.056931
+Resorting vector int: 0.056307
+Selection sort time with data: 0.541953
+Resorting sorted vector with data: 0.537756
+QuickSort time int: 5.2592
+Resorting sorted vector with  int: 5.25448
+QuickSort time Data: 0.757804
+
+Resorting time Data: 0.759124
+
+Testing with: 10000
+BubbleSort time int: 0.816187
+Resorting sorted vector with int using bubblesort: 8.5e-05
+BubbleSort time data: 11.3845
+Resorting sorted vector with data using bubblesort: 0.000592
+MergeSort time int: 3.17225
+Resorting sorted vector with integers using mergesort: 3.07292
+MergeSort time data: 22.8653
+Resorting sorted vector with data using mergesort: 21.515
+SelectionSort time int: 0.225631
+Resorting vector int: 0.224831
+Selection sort time with data: 2.18435
+Resorting sorted vector with data: 2.17936
+QuickSort time int: 23.08
+Resorting sorted vector with  int: 22.1931
+QuickSort time Data: 3.1801
+
+Resorting time Data: 3.15754
+
+Testing with: 15000
+BubbleSort time int: 1.88888
+Resorting sorted vector with int using bubblesort: 0.000129
+BubbleSort time data: 27.0906
+Resorting sorted vector with data using bubblesort: 0.000887
+MergeSort time int: 6.98026
+Resorting sorted vector with integers using mergesort: 6.84751
+MergeSort time data: 47.7262
+Resorting sorted vector with data using mergesort: 48.9504
+SelectionSort time int: 0.50663
+Resorting vector int: 0.503018
+Selection sort time with data: 4.87264
+Resorting sorted vector with data: 4.90176
+QuickSort time int: 50.4447
+Resorting sorted vector with  int: 50.2818
+QuickSort time Data: 6.90498
+
+Resorting time Data: 6.87671
+
+Testing with: 20000
+BubbleSort time int: 3.23884
+Resorting sorted vector with int using bubblesort: 0.000171
+BubbleSort time data: 48.9317
+Resorting sorted vector with data using bubblesort: 0.001243
+MergeSort time int: 12.1857
+Resorting sorted vector with integers using mergesort: 12.194
+MergeSort time data: 86.0041
+Resorting sorted vector with data using mergesort: 85.8369
+SelectionSort time int: 0.897507
+Resorting vector int: 0.893776
+Selection sort time with data: 8.73008
+Resorting sorted vector with data: 8.83652
+QuickSort time int: 94.7385
+Resorting sorted vector with  int: 94.6214
+QuickSort time Data: 12.1842
+
+Resorting time Data: 12.2425
+
+Testing with: 25000
+BubbleSort time int: 5.04239
+Resorting sorted vector with int using bubblesort: 0.000215
+BubbleSort time data: 77.3818
+Resorting sorted vector with data using bubblesort: 0.001571
+MergeSort time int: 19.215
+Resorting sorted vector with integers using mergesort: 19.0403
+MergeSort time data: 138.02
+Resorting sorted vector with data using mergesort: 143.164
+SelectionSort time int: 1.47581
+Resorting vector int: 1.61316
+Selection sort time with data: 16.3378
+Resorting sorted vector with data: 15.2349
+QuickSort time int: 159.949
+Resorting sorted vector with  int: 156.292
+QuickSort time Data: 19.2411
+
+Resorting time Data: 19.2483
+
+Testing with: 30000
+BubbleSort time int: 7.30868
+Resorting sorted vector with int using bubblesort: 0.000257
+BubbleSort time data: 111.143
+Resorting sorted vector with data using bubblesort: 0.001814
+MergeSort time int: 27.8555
+Resorting sorted vector with integers using mergesort: 27.8503
+MergeSort time data: 203.511
+Resorting sorted vector with data using mergesort: 202.488
+SelectionSort time int: 2.05835
+Resorting vector int: 2.02862
+Selection sort time with data: 22.946
+Resorting sorted vector with data: 22.732
+QuickSort time int: 238.285
+Resorting sorted vector with  int: 231.981
+QuickSort time Data: 28.5316
+
+Resorting time Data: 28.1518
+
+Testing with: 35000
+BubbleSort time int: 9.97561
+Resorting sorted vector with int using bubblesort: 0.000299
+BubbleSort time data: 151.564
+Resorting sorted vector with data using bubblesort: 0.002278
+MergeSort time int: 38.115
+Resorting sorted vector with integers using mergesort: 38.6201
+MergeSort time data: 295.386
+Resorting sorted vector with data using mergesort: 288.946
+SelectionSort time int: 2.91214
+Resorting vector int: 3.04316
+Selection sort time with data: 32.0063
+Resorting sorted vector with data: 30.8721
+QuickSort time int: 307.439
+Resorting sorted vector with  int: 308.358
+QuickSort time Data: 38.172
+
+Resorting time Data: 38.2822
+
+Testing with: 40000
+BubbleSort time int: 13.4085
+Resorting sorted vector with int using bubblesort: 0.000341
+BubbleSort time data: 194.842
+Resorting sorted vector with data using bubblesort: 0.002363
+MergeSort time int: 49.9715
+Resorting sorted vector with integers using mergesort: 50.0357
+MergeSort time data: 381.096
+Resorting sorted vector with data using mergesort: 381.901
+SelectionSort time int: 3.61041
+Resorting vector int: 3.609
+Selection sort time with data: 39.2364
+Resorting sorted vector with data: 39.7715
+QuickSort time int: 428.556
+Resorting sorted vector with  int: 422.144
+QuickSort time Data: 51.235
+
+Resorting time Data: 51.4991
+
+Testing with: 45000
+BubbleSort time int: 17.1429
+Resorting sorted vector with int using bubblesort: 0.000384
+BubbleSort time data: 244.012
+Resorting sorted vector with data using bubblesort: 0.002785
+MergeSort time int: 64.011
+Resorting sorted vector with integers using mergesort: 63.1837
+MergeSort time data: 475.113
+Resorting sorted vector with data using mergesort: 475.726
+SelectionSort time int: 4.67639
+Resorting vector int: 4.65714
+Selection sort time with data: 53.9049
+Resorting sorted vector with data: 54.3729
+QuickSort time int: 533.529
+Resorting sorted vector with  int: 570.764
+QuickSort time Data: 63.8777
+
+Resorting time Data: 63.9522
+
+Testing with: 50000
+BubbleSort time int: 20.8075
+Resorting sorted vector with int using bubblesort: 0.000427
+BubbleSort time data: 309.53
+Resorting sorted vector with data using bubblesort: 0.003043
+MergeSort time int: 79.4025
+Resorting sorted vector with integers using mergesort: 79.2619
+MergeSort time data: 594.851
+Resorting sorted vector with data using mergesort: 590.725
+SelectionSort time int: 5.61921
+Resorting vector int: 5.59727
+Selection sort time with data: 62.8709
+Resorting sorted vector with data: 60.5199
+QuickSort time int: 628.079
+Resorting sorted vector with  int: 633.227
+QuickSort time Data: 76.1796
+
+Resorting time Data: 78.6705
+
+Testing with: 55000
+BubbleSort time int: 25.576
+Resorting sorted vector with int using bubblesort: 0.000479
+BubbleSort time data: 385.137
+Resorting sorted vector with data using bubblesort: 0.003287
+MergeSort time int: 94.5113
+Resorting sorted vector with integers using mergesort: 93.7867
+MergeSort time data: 729.409
+Resorting sorted vector with data using mergesort: 717.111
+SelectionSort time int: 6.79205
+Resorting vector int: 6.78943
+Selection sort time with data: 73.8298
+Resorting sorted vector with data: 76.0755
+
+Testing with: 90000
+BubbleSort time int: 66.5384
+Resorting sorted vector with int using bubblesort: 0.000767
+BubbleSort time data: 1044.22
+Resorting sorted vector with data using bubblesort: 0.007529
+MergeSort time int: 250.083
+Resorting sorted vector with integers using mergesort: 255.795
+MergeSort time data: 2061.14
+Resorting sorted vector with data using mergesort: 2013.23
+SelectionSort time int: 18.2453
+Resorting vector int: 18.2447
+Selection sort time with data: 227.997
+Resorting sorted vector with data: 227.668
+QuickSort time int: 2103.7
+Resorting sorted vector with  int: 2160.99
+QuickSort time Data: 252.676
+
+Resorting time Data: 251.196
+
+Testing with: 100000
+BubbleSort time int: 74.3895
+Resorting sorted vector with int using bubblesort: 0.00081
+BubbleSort time data: 1182.52
+Resorting sorted vector with data using bubblesort: 0.005674
+MergeSort time int: 277.621
+Resorting sorted vector with integers using mergesort: 281.879
+MergeSort time data: 2545.15
+Resorting sorted vector with data using mergesort: 2040.23
+SelectionSort time int: 22.9965
+Resorting vector int: 22.2517
+Selection sort time with data: 243.828
+Resorting sorted vector with data: 241.629
+QuickSort time int: 2478.37
+Resorting sorted vector with  int: 2320.99
+QuickSort time Data: 315.872
+
+Resorting time Data: 286.303
+
+
